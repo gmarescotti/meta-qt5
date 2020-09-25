@@ -11,5 +11,7 @@ RDEPENDS_${PN} += " \
     nativesdk-packagegroup-sdk-host \
     nativesdk-qttools-tools \
     nativesdk-qtbase \
+    nativesdk-qtdeclarative-tools \
+    nativesdk-qtscxml \
     nativesdk-perl-modules \
 "
